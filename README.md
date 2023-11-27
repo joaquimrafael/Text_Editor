@@ -1,2 +1,2 @@
 # Text_Editor
-Projeto de um editor de texto simples desenvolvido em Java, utilizando os conceitos de Estrutura de Dados do tipo lista duplamente encadeada circular. O programa permite operações como adicionar, inserir, remover e editar linhas de arquivos de texto, oferecendo diversas funcionalidades dentro da interface do editor.
+Project of a simple text editor developed in Java, utilizing the concepts of a circular doubly linked list data structure. The program enables operations such as adding, inserting, removing, and editing lines of text files, offering various functionalities within the editor's interface.
